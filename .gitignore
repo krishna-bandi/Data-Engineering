@@ -1,3 +1,11 @@
 venv/
+
+# Ignore data files
+cold_data/
+
+# Jupyter
+.ipynb_checkpoints/
+
 __pycache__/
 *.pyc
+.DS_Store
